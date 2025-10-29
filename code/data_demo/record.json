@@ -1,0 +1,495 @@
+{
+    "target": "YandexMap",
+    "screen_size": {
+        "width": 1080,
+        "height": 2400
+    },
+    "steps": [
+        {
+            "step_id": 1,
+            "action_type": "click",
+            "action_detail": {
+                "x": 533,
+                "y": 1165
+            },
+            "screen_shot": "step_1.png",
+            "ui_tree": "step_1_ui.xml",
+            "operated_bounds": "[158,252][922,2101]",
+            "processed_screenshot": "step_1_processed.png"
+        },
+        {
+            "step_id": 2,
+            "action_type": "click",
+            "action_detail": {
+                "x": 288,
+                "y": 2255
+            },
+            "screen_shot": "step_2.png",
+            "ui_tree": "step_2_ui.xml",
+            "operated_bounds": "[253,2211][316,2274]",
+            "processed_screenshot": "step_2_processed.png"
+        },
+        {
+            "step_id": 3,
+            "action_type": "click",
+            "action_detail": {
+                "x": 459,
+                "y": 2214
+            },
+            "screen_shot": "step_3.png",
+            "ui_tree": "step_3_ui.xml",
+            "operated_bounds": "[229,2148][497,2295]",
+            "processed_screenshot": "step_3_processed.png"
+        },
+        {
+            "step_id": 4,
+            "action_type": "click",
+            "action_detail": {
+                "x": 946,
+                "y": 1512
+            },
+            "screen_shot": "step_4.png",
+            "ui_tree": "step_4_ui.xml",
+            "operated_bounds": "[0,630][1080,2337]",
+            "processed_screenshot": "step_4_processed.png"
+        },
+        {
+            "step_id": 5,
+            "action_type": "click",
+            "action_detail": {
+                "x": 833,
+                "y": 1296
+            },
+            "screen_shot": "step_5.png",
+            "ui_tree": "step_5_ui.xml",
+            "operated_bounds": "[130,896][949,1504]",
+            "processed_screenshot": "step_5_processed.png"
+        },
+        {
+            "step_id": 6,
+            "action_type": "click",
+            "action_detail": {
+                "x": 631,
+                "y": 1401
+            },
+            "screen_shot": "step_6.png",
+            "ui_tree": "step_6_ui.xml",
+            "operated_bounds": "[158,252][922,2101]",
+            "processed_screenshot": "step_6_processed.png"
+        },
+        {
+            "step_id": 7,
+            "action_type": "click",
+            "action_detail": {
+                "x": 992,
+                "y": 1112
+            },
+            "screen_shot": "step_7.png",
+            "ui_tree": "step_7_ui.xml",
+            "operated_bounds": "[922,1058][1048,1184]",
+            "processed_screenshot": "step_7_processed.png"
+        },
+        {
+            "step_id": 8,
+            "action_type": "click",
+            "action_detail": {
+                "x": 959,
+                "y": 1114
+            },
+            "screen_shot": "step_8.png",
+            "ui_tree": "step_8_ui.xml",
+            "operated_bounds": "[922,1058][1048,1184]",
+            "processed_screenshot": "step_8_processed.png"
+        },
+        {
+            "step_id": 9,
+            "action_type": "click",
+            "action_detail": {
+                "x": 997,
+                "y": 1265
+            },
+            "screen_shot": "step_9.png",
+            "ui_tree": "step_9_ui.xml",
+            "operated_bounds": "[922,1216][1048,1342]",
+            "processed_screenshot": "step_9_processed.png"
+        },
+        {
+            "step_id": 10,
+            "action_type": "click",
+            "action_detail": {
+                "x": 983,
+                "y": 327
+            },
+            "screen_shot": "step_10.png",
+            "ui_tree": "step_10_ui.xml",
+            "operated_bounds": "[922,294][1048,420]",
+            "processed_screenshot": "step_10_processed.png"
+        },
+        {
+            "step_id": 11,
+            "action_type": "click",
+            "action_detail": {
+                "x": 557,
+                "y": 1396
+            },
+            "screen_shot": "step_11.png",
+            "ui_tree": "step_11_ui.xml",
+            "operated_bounds": "[472,1374][607,1420]",
+            "processed_screenshot": "step_11_processed.png"
+        },
+        {
+            "step_id": 12,
+            "action_type": "click",
+            "action_detail": {
+                "x": 813,
+                "y": 1377
+            },
+            "screen_shot": "step_12.png",
+            "ui_tree": "step_12_ui.xml",
+            "operated_bounds": "[720,1344][1037,1449]",
+            "processed_screenshot": "step_12_processed.png"
+        },
+        {
+            "step_id": 13,
+            "action_type": "click",
+            "action_detail": {
+                "x": 218,
+                "y": 1401
+            },
+            "screen_shot": "step_13.png",
+            "ui_tree": "step_13_ui.xml",
+            "operated_bounds": "[165,1374][238,1420]",
+            "processed_screenshot": "step_13_processed.png"
+        },
+        {
+            "step_id": 14,
+            "action_type": "click",
+            "action_detail": {
+                "x": 203,
+                "y": 1735
+            },
+            "screen_shot": "step_14.png",
+            "ui_tree": "step_14_ui.xml",
+            "operated_bounds": "[189,1720][332,1772]",
+            "processed_screenshot": "step_14_processed.png"
+        },
+        {
+            "step_id": 15,
+            "action_type": "click",
+            "action_detail": {
+                "x": 205,
+                "y": 1892
+            },
+            "screen_shot": "step_15.png",
+            "ui_tree": "step_15_ui.xml",
+            "operated_bounds": "[189,1889][401,1941]",
+            "processed_screenshot": "step_15_processed.png"
+        },
+        {
+            "step_id": 16,
+            "action_type": "click",
+            "action_detail": {
+                "x": 776,
+                "y": 706
+            },
+            "screen_shot": "step_16.png",
+            "ui_tree": "step_16_ui.xml",
+            "operated_bounds": "[158,252][922,714]",
+            "processed_screenshot": "step_16_processed.png"
+        },
+        {
+            "step_id": 17,
+            "action_type": "click",
+            "action_detail": {
+                "x": 1003,
+                "y": 496
+            },
+            "screen_shot": "step_17.png",
+            "ui_tree": "step_17_ui.xml",
+            "operated_bounds": "[922,452][1048,578]",
+            "processed_screenshot": "step_17_processed.png"
+        },
+        {
+            "step_id": 18,
+            "action_type": "click",
+            "action_detail": {
+                "x": 979,
+                "y": 649
+            },
+            "screen_shot": "step_18.png",
+            "ui_tree": "step_18_ui.xml",
+            "operated_bounds": "[922,610][1048,736]",
+            "processed_screenshot": "step_18_processed.png"
+        },
+        {
+            "step_id": 19,
+            "action_type": "swipe",
+            "action_detail": {
+                "start_x": 507,
+                "start_y": 594,
+                "end_x": 540,
+                "end_y": 1388,
+                "duration": 1.1624709999960032
+            },
+            "screen_shot": "step_19.png",
+            "ui_tree": "step_19_ui.xml",
+            "processed_screenshot": "step_19_processed.png"
+        },
+        {
+            "step_id": 20,
+            "action_type": "click",
+            "action_detail": {
+                "x": 328,
+                "y": 522
+            },
+            "screen_shot": "step_20.png",
+            "ui_tree": "step_20_ui.xml",
+            "operated_bounds": "[158,252][922,714]",
+            "processed_screenshot": "step_20_processed.png"
+        },
+        {
+            "step_id": 21,
+            "action_type": "click",
+            "action_detail": {
+                "x": 185,
+                "y": 2216
+            },
+            "screen_shot": "step_21.png",
+            "ui_tree": "step_21_ui.xml",
+            "operated_bounds": "[21,2176][262,2255]",
+            "processed_screenshot": "step_21_processed.png"
+        },
+        {
+            "step_id": 22,
+            "action_type": "click",
+            "action_detail": {
+                "x": 553,
+                "y": 1833
+            },
+            "screen_shot": "step_22.png",
+            "ui_tree": "step_22_ui.xml",
+            "operated_bounds": "[512,1822][575,1885]",
+            "processed_screenshot": "step_22_processed.png"
+        },
+        {
+            "step_id": 23,
+            "action_type": "click",
+            "action_detail": {
+                "x": 618,
+                "y": 1836
+            },
+            "screen_shot": "step_23.png",
+            "ui_tree": "step_23_ui.xml",
+            "operated_bounds": "[0,1832][1080,2053]",
+            "processed_screenshot": "step_23_processed.png"
+        },
+        {
+            "step_id": 24,
+            "action_type": "click",
+            "action_detail": {
+                "x": 677,
+                "y": 1742
+            },
+            "screen_shot": "step_24.png",
+            "ui_tree": "step_24_ui.xml",
+            "operated_bounds": "[659,1727][722,1790]",
+            "processed_screenshot": "step_24_processed.png"
+        },
+        {
+            "step_id": 25,
+            "action_type": "click",
+            "action_detail": {
+                "x": 944,
+                "y": 1761
+            },
+            "screen_shot": "step_25.png",
+            "ui_tree": "step_25_ui.xml",
+            "operated_bounds": "[0,0][1080,2337]",
+            "processed_screenshot": "step_25_processed.png"
+        },
+        {
+            "step_id": 26,
+            "action_type": "click",
+            "action_detail": {
+                "x": 380,
+                "y": 1204
+            },
+            "screen_shot": "step_26.png",
+            "ui_tree": "step_26_ui.xml",
+            "operated_bounds": "[0,0][1080,2337]",
+            "processed_screenshot": "step_26_processed.png"
+        },
+        {
+            "step_id": 27,
+            "action_type": "click",
+            "action_detail": {
+                "x": 85,
+                "y": 2240
+            },
+            "screen_shot": "step_27.png",
+            "ui_tree": "step_27_ui.xml",
+            "operated_bounds": "[0,2190][95,2337]",
+            "processed_screenshot": "step_27_processed.png"
+        },
+        {
+            "step_id": 28,
+            "action_type": "click",
+            "action_detail": {
+                "x": 54,
+                "y": 2111
+            },
+            "screen_shot": "step_28.png",
+            "ui_tree": "step_28_ui.xml",
+            "operated_bounds": "[0,63][1080,2337]",
+            "processed_screenshot": "step_28_processed.png"
+        },
+        {
+            "step_id": 29,
+            "action_type": "click",
+            "action_detail": {
+                "x": 317,
+                "y": 430
+            },
+            "screen_shot": "step_29.png",
+            "ui_tree": "step_29_ui.xml",
+            "operated_bounds": "[0,0][1080,2337]",
+            "processed_screenshot": "step_29_processed.png"
+        },
+        {
+            "step_id": 30,
+            "action_type": "swipe",
+            "action_detail": {
+                "start_x": 645,
+                "start_y": 852,
+                "end_x": 690,
+                "end_y": 1364,
+                "duration": 1.4784290000025067
+            },
+            "screen_shot": "step_30.png",
+            "ui_tree": "step_30_ui.xml",
+            "processed_screenshot": "step_30_processed.png"
+        },
+        {
+            "step_id": 31,
+            "action_type": "swipe",
+            "action_detail": {
+                "start_x": 690,
+                "start_y": 1364,
+                "end_x": 690,
+                "end_y": 1440,
+                "duration": 0.6815199999982724
+            },
+            "screen_shot": "step_31.png",
+            "ui_tree": "step_31_ui.xml",
+            "processed_screenshot": "step_31_processed.png"
+        },
+        {
+            "step_id": 32,
+            "action_type": "swipe",
+            "action_detail": {
+                "start_x": 690,
+                "start_y": 1440,
+                "end_x": 1012,
+                "end_y": 1698,
+                "duration": 1.5306370000034804
+            },
+            "screen_shot": "step_32.png",
+            "ui_tree": "step_32_ui.xml",
+            "processed_screenshot": "step_32_processed.png"
+        },
+        {
+            "step_id": 33,
+            "action_type": "swipe",
+            "action_detail": {
+                "start_x": 1012,
+                "start_y": 1698,
+                "end_x": 1018,
+                "end_y": 1715,
+                "duration": 0.6835659999997006
+            },
+            "screen_shot": "step_33.png",
+            "ui_tree": "step_33_ui.xml",
+            "processed_screenshot": "step_33_processed.png"
+        },
+        {
+            "step_id": 34,
+            "action_type": "click",
+            "action_detail": {
+                "x": 546,
+                "y": 2203
+            },
+            "screen_shot": "step_34.png",
+            "ui_tree": "step_34_ui.xml",
+            "operated_bounds": "[189,2179][891,2305]",
+            "processed_screenshot": "step_34_processed.png"
+        },
+        {
+            "step_id": 35,
+            "action_type": "click",
+            "action_detail": {
+                "x": 927,
+                "y": 1527
+            },
+            "screen_shot": "step_35.png",
+            "ui_tree": "step_35_ui.xml",
+            "operated_bounds": "[0,1527][1080,1685]",
+            "processed_screenshot": "step_35_processed.png"
+        },
+        {
+            "step_id": 36,
+            "action_type": "swipe",
+            "action_detail": {
+                "start_x": 190,
+                "start_y": 1750,
+                "end_x": 328,
+                "end_y": 1748,
+                "duration": 0.4052750000046217
+            },
+            "screen_shot": "step_36.png",
+            "ui_tree": "step_36_ui.xml",
+            "processed_screenshot": "step_36_processed.png"
+        },
+        {
+            "step_id": 37,
+            "action_type": "swipe",
+            "action_detail": {
+                "start_x": 328,
+                "start_y": 1748,
+                "end_x": 553,
+                "end_y": 1744,
+                "duration": 0.35188299999572337
+            },
+            "screen_shot": "step_37.png",
+            "ui_tree": "step_37_ui.xml",
+            "processed_screenshot": "step_37_processed.png"
+        },
+        {
+            "step_id": 38,
+            "action_type": "swipe",
+            "action_detail": {
+                "start_x": 553,
+                "start_y": 1744,
+                "end_x": 907,
+                "end_y": 1735,
+                "duration": 0.4050820000047679
+            },
+            "screen_shot": "step_38.png",
+            "ui_tree": "step_38_ui.xml",
+            "processed_screenshot": "step_38_processed.png"
+        },
+        {
+            "step_id": 39,
+            "action_type": "swipe",
+            "action_detail": {
+                "start_x": 907,
+                "start_y": 1735,
+                "end_x": 937,
+                "end_y": 1735,
+                "duration": 0.42962599999736995
+            },
+            "screen_shot": "step_39.png",
+            "ui_tree": "step_39_ui.xml",
+            "processed_screenshot": "step_39_processed.png"
+        }
+    ]
+}

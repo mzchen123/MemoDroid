@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+test.*
+log.*
+hierarchy_files/
+annotated_images/
+components/
+log/
+temp_test_app/
+*.csv
+*.bin
